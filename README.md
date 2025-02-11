@@ -1,6 +1,4 @@
-"# reverse-string" 
-![image](https://github.com/user-attachments/assets/3dbb21e0-daef-4174-a07b-64e5c166aade)
+Terdapat 3 tabel dalam database inventory :
 
-ganti input := "Hello, World!" dengan input yang mau dibalik kata katanya
+![image](https://github.com/user-attachments/assets/954fd114-a742-481c-88cf-2ca414710836)
 
-run  go run main.go
